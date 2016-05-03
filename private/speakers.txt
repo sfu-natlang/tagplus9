@@ -1,0 +1,16 @@
+
+<h1>Speakers</h1>
+<hr>
+<h2>Invited Speakers</h2>
+<p>
+<ul>
+<li><a href="http://tcl.sfs.uni-tuebingen.de/~um/">Uwe M&ouml;nnich</a>, <a href="http://www.uni-tuebingen.de/">University of T&uuml;bingen</a>
+<ul><li><a href="papers/monnich_slides.pdf">Slides from the invited talk</a> (updated Jun 11, 2008)</li></ul>
+</li>
+<!-- <img border="0" width="20%" src="moennich.jpg" alt="Moennich photo"> -->
+<li><a href="http://www.eecs.harvard.edu/~shieber/">Stuart M. Shieber</a>, <a href="http://www.eecs.harvard.edu">Harvard University</a>
+<ul><li><a href="papers/shieber_slides.pdf">Slides from the invited talk</a></li></ul>
+</li>
+</ul>
+<hr>
+

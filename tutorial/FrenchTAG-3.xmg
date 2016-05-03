@@ -1,0 +1,86 @@
+use color   with ()          dims (syn)
+use unicity with (gf = subj) dims (syn)
+use unicity with (gf = obj ) dims (syn)
+
+type GF = {subj,obj}
+property gf : COLOR {subj = subj, obj = obj}
+
+type COLOR = {red,black,white}
+property color : COLOR {red = red, black = black, white = white}
+
+type CAT = {n,v,vn,s,cl}
+feature cat : CAT
+
+class VerbActiveForm
+{
+  <syn> {
+    node (black) [cat=s] {
+      node (black) [cat=vn] {
+        node (black) [cat=v]}}}
+}
+
+class SubjectCanonical
+{
+  <syn> {
+    node (white) [cat=s] {
+      node (red,subj) [cat=n]
+      node (white) [cat=vn]}}
+}
+
+class SubjectRelative
+{
+  <syn> {
+    node (black) [cat=n] {
+      node (red) [cat=n]
+      node (white) [cat=s] {
+        node (red,subj) [cat=n]
+	node (white) [cat=vn]}}}
+}
+
+class Subject
+{
+    SubjectCanonical[]
+  | SubjectRelative []
+}
+
+class ObjectCanonical
+{
+  <syn> {
+    node (white) [cat=s] {
+      node (white) [cat=vn]
+      node (red,obj) [cat=n]}}
+}
+
+class ObjectClitic
+{
+  <syn> {
+    node (white) [cat=vn] {
+      node (red,obj) [cat=cl]
+      node (white) [cat=v]}}
+}
+
+class ObjectRelative
+{
+  <syn> {
+    node (black) [cat=n] {
+      node (red) [cat=n]
+      node (black) [cat=s] {
+        node (red,obj) [cat=n]
+	node (white) [cat=s]}}}
+}
+
+class Object
+{
+    ObjectCanonical[]
+  | ObjectClitic   []
+  | ObjectRelative []
+}
+
+class VerbActiveTransitive
+{
+  Subject[];
+  VerbActiveForm[];
+  Object[]
+}
+
+value VerbActiveTransitive

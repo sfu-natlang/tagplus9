@@ -1,0 +1,32 @@
+
+<h1>Tutorial Program at TAG+9</h1>
+<hr>
+
+<p>
+The local organizer, Laura Kallmeyer, has arranged for
+a tutorial program on Jun 6th, the day preceding the start
+of TAG+9. Tutorials will be free for those who are 
+registered for TAG+9.
+</p>
+
+<p>The tutorial program (Jun 6, 2008):
+
+<ul>
+<li>9.15am - 10.45am: <a href="tutorial/frank.pdf">Syntax and LTAG</a> (Bob Frank)</li>
+<li>11.15am - 12.45pm: <a href="tutorial/clergerie.pdf">TAG Parsing</a> (Eric de la Clergerie)</li>
+<li>2.15pm - 3.45pm: <a href="tutorial/duchier.pdf">Metagrammars</a>, 
+    Examples: 
+    <a href="tutorial/FrenchTAG-1.xmg">#1</a>, 
+    <a href="tutorial/FrenchTAG-2.xmg">#2</a>, 
+    <a href="tutorial/FrenchTAG-3.xmg">#3</a>, 
+    <a href="tutorial/FrenchTAG-4.xmg">#4</a>, 
+    <a href="tutorial/FrenchTAG-6.xmg">#5</a>.
+    (Denys Duchier)
+</li>
+<li>4.15pm - 5.45pm: <a href="tutorial/romero.pdf">LTAG Semantics</a> (Maribel Romero)</li>
+</ul>
+
+</p>
+
+
+

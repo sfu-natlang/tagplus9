@@ -1,0 +1,222 @@
+
+Detailed Explanation of the Review Form
+=======================================
+
+Please refer to this document if you have any questions about any
+particular entry in the review form. If you have any concerns or
+questions not addressed by this document, please email the co-chairs
+at tagplus@sfb441.uni-tuebingen.de
+
+Review
+------
+
+Please supply detailed comments to back up your rankings.  These
+comments will be forwarded to the authors of the paper. The comments
+will help the committee decide the outcome of the paper, and will
+help justify this decision for the authors. Moreover, if the paper
+is accepted, the comments should guide the authors in making revisions
+for a final manuscript. Hence, the more detailed you make your
+comments, the more useful your review will be -- both for the
+committee and for the authors.
+
+Remarks for the Program Committee Chairs
+----------------------------------------
+
+You may wish to withhold some comments from the authors, and include
+them solely for the committee's internal use.  For example, you may
+want to express a very strong (negative) opinion on the paper, which
+might offend the authors in some way. Or, perhaps, you wish to write
+something which would expose your identity to the authors.  If you
+wish to share comments of this nature with the committee, this is
+the place to put them.
+
+Overall Evaluation
+------------------
+
+Should the paper be accepted or rejected?
+
+5 = Exciting: I'd fight to get it accepted.
+
+4 = Worthy: I would like to see it accepted.
+
+3 = Borderline: I'm ambivalent about this one.
+
+2 = Mediocre: I'd rather not see it in the conference.
+
+1 = Poor: I'd fight to have it rejected.
+
+Reviewer confidence
+-------------------
+
+5 = Positive that my evaluation is correct. I read the paper very
+carefully and am very familiar with related work.
+
+4 = Quite sure. I tried to check the important points carefully,
+and checked for uncited prior work. It's unlikely, though conceivable,
+that I missed something that should affect my ratings.
+
+3 = Pretty sure, but there's a chance I missed something.  Although
+I have a good feel for this area in general, I did not carefully
+check the paper's details, e.g., math, linguistic data, experimental
+design, novelty.
+
+2 = Willing to defend evaluation, but it is fairly likely that I
+missed some details, didn't understand some central points, or can't
+be sure about the novelty of the work.
+
+1 = Not my area, or paper is very hard to understand. My evaluation
+is just an educated guess.
+
+Appropriateness
+---------------
+
+Does the paper fit in TAG+9?
+
+TAG+9 invites papers on all aspects of the TAG formalism including
+relations to other grammar formalisms; please see the Call for
+Papers for TAG+9.
+
+5 = Appropriate for TAG+9. (most submissions)
+
+4 = Linguistics or computer science but not typical TAG+9 material.
+
+3 = Possibly relevant to the audience but not really TAG+9 material.
+
+2 = Only marginally relevant.
+
+1 = Inappropriate.
+
+Clarity
+-------
+
+For the reasonably well-prepared reader, is it clear what was done
+and why? Is the paper well-written and well-structured?  Does the
+English or the mathematics need cleaning up? Would the explanation
+benefit from more examples or pictures?
+
+Is there sufficient detail for an expert to validate the work, e.g.,
+by replicating experiments or filling in theoretical steps?
+
+(Take into account whether any obscurity or minor English errors
+could be fixed with relatively little effort, or whether the paper
+requires more work than is likely to be carried out in the few weeks
+available.)
+
+5 = Admirably clear.
+
+4 = Understandable by most readers.
+
+3 = Mostly understandable to me with some effort.
+
+2 = Important questions were hard to resolve even with effort.
+
+1 = Much of the paper is confusing.
+
+Correctness
+-----------
+
+First, is the general approach sound and well-chosen given the
+purpose of the paper? Secondly, can one trust the claims of the
+paper -- are they supported by proper linguistic analysis, experiments,
+(other) empirical results, proofs, or other argumentation?
+
+(Note that the kind of support required will be different for
+different types of papers, theoretical or empirical, linguistic or
+computational, fundamental or applied. Please try to assess whether
+the justification offered is adequate given the goals of the paper.)
+
+5 = The approach is very apt, and the claims are convincingly
+supported.
+
+4 = Generally solid work, though I have a few suggestions about how
+to strengthen the approach or its justification.
+
+3 = Fairly reasonable work. The approach is not bad, and at least
+the main claims are probably correct, but I am not entirely ready
+to accept them (based on the material in the paper).
+
+2 = Troublesome. There are some ideas worth salvaging here, but the
+work should really have been done or evaluated differently, or
+justified better.
+
+1 = Fatally flawed.
+
+Meaningful Comparison
+---------------------
+
+Does the author make clear where the problems and methods sit with
+respect to existing literature? Are the references adequate? Are
+the new contributions meaningfully compared to the state of the art
+in the area, e.g., in terms of experimental results, linguistic
+coverage, or theoretical properties?
+
+5 = Precise and complete comparison with related work. Good job
+given the space constraints.
+
+4 = Mostly solid bibliography and comparison, but I have some
+suggestions.
+
+3 = Bibliography and comparison are somewhat helpful, but it could
+be hard for a reader to determine exactly how this work relates to
+previous work.
+
+2 = Only partial awareness and understanding of related work, or a
+flawed comparison the state of the art.
+
+1 = Little awareness of related work, or lacks necessary comparison.
+
+Originality
+-----------
+
+How original is the approach? Does the paper break new ground in
+topic, methodology, or content? How exciting and innovative is the
+research it describes?
+
+(Note that a paper can score high for originality even if the benefit
+of the approach is not yet fully justified.)
+
+5 = Surprising: Noteworthy new problem, theory, methodology, or
+insight.
+
+4 = Creative: Relatively few people in our community would have put
+these ideas together.
+
+3 = Somewhat conventional: A number of people could have come up
+with this if they thought about it for a while.
+
+2 = Rather boring: Obvious, or a minor modification on a familiar
+theme.
+
+1 = Significant portions have actually been done before or done
+better.
+
+Impact
+------
+
+How significant is the work described? If the ideas are novel, will
+they also be useful or inspirational? If the claims and results are
+sound, are they also important?
+
+5 = Will affect the field by altering other people's choice of
+research topics or basic approach.
+
+4 = Some of the ideas or results will substantially help other
+people's ongoing research.
+
+3 = Interesting but not too influential. The work will be cited,
+but mainly for comparison or as a source of minor contributions.
+
+2 = Marginally interesting. May or may not be cited.
+
+1 = Will have no impact on the field.
+
+Presentation or Poster
+----------------------
+
+What is your recommendation about the style of presentation for
+this submission? There will be oral presentations and poster sessions.
+
+1 = poster presentation
+
+2 = oral presentation
+

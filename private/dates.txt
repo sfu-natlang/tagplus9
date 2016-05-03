@@ -1,0 +1,13 @@
+
+<h1>Important Dates</h1>
+<hr>
+<ul>
+<li>Deadline for submission: Mar 6, 2008 (deadline extended)</li>
+<!-- <li>Reviews due: Apr 6, 2008</li> -->
+<li>Notification to authors of decision: Apr 10, 2008</li>
+<li>Camera ready: Apr 28, 2008</li>
+<li>Tutorial date: Jun 6, 2008</li>
+<li>Workshop date: Jun 7-8, 2008</li>
+</ul>
+<hr>
+

@@ -1,0 +1,142 @@
+use color   with ()          dims (syn)
+use unicity with (gf = subj) dims (syn)
+use unicity with (gf = obj ) dims (syn)
+
+type MARK = {subst,nadj,foot,anchor}
+property mark : MARK {subst=subst,nadj=nadj,foot=foot,anchor=anchor}
+
+type GF = {subj,obj}
+property gf : COLOR {subj = subj, obj = obj}
+
+type COLOR = {red,black,white}
+property color : COLOR {red = red, black = black, white = white}
+
+type CAT = {n,v,vn,s,cl}
+feature cat : CAT
+
+type LABEL !
+feature idx  : LABEL
+feature arg1 : LABEL
+feature arg2 : LABEL
+feature evt  : LABEL
+feature rel2 : LABEL
+feature subjI: LABEL
+feature objI : LABEL
+feature pred : LABEL
+
+type LEXIQUE = { manger }
+
+class BinaryRel
+declare ?Rel ?E ?X ?Y !L
+{
+  <sem> {
+    L:Rel(E,X,Y)
+  }
+
+  *=[rel2=Rel,evt=E,arg1=X,arg2=Y]
+}
+
+class VerbActiveForm
+declare ?VbI
+{
+  <syn> {
+    node (black) [cat=s] {
+      node (black) [cat=vn] {
+        node (black,anchor) [cat=v,idx=?VbI]}}}
+
+  *= [vbI=?VbI]
+}
+
+class SubjectCanonical
+declare ?SubjI
+{
+  <syn> {
+    node (white) [cat=s] {
+      node (red,subj,subst) [cat=n,idx=?SubjI]
+      node (white) [cat=vn]}}
+
+  *= [subjI=?SubjI]
+}
+
+class SubjectRelative
+declare ?SubjI
+{
+  <syn> {
+    node (black) [cat=n] {
+      node (red,foot) [cat=n,idx=?SubjI]
+      node (white) [cat=s] {
+        node (red,subj,subst) [cat=n]
+	node (white) [cat=vn]}}}
+
+  *= [subjI=?SubjI]
+}
+
+class Subject
+{
+    SubjectCanonical[]
+  | SubjectRelative []
+}
+
+class ObjectCanonical
+declare ?ObjI
+{
+  <syn> {
+    node (white) [cat=s] {
+      node (white) [cat=vn]
+      node (red,obj,subst) [cat=n,idx=?ObjI]}}
+
+  *= [objI=?ObjI]
+}
+
+class ObjectClitic
+declare ?ObjI
+{
+  <syn> {
+    node (white) [cat=vn] {
+      node (red,obj,subst) [cat=cl,idx=?ObjI]
+      node (white) [cat=v]}}
+
+  *= [objI=?ObjI]
+}
+
+class ObjectRelative
+declare ?ObjI
+{
+  <syn> {
+    node (black) [cat=n] {
+      node (red,foot) [cat=n]
+      node (black) [cat=s] {
+        node (red,obj,subst) [cat=n,idx=?ObjI]
+	node (white) [cat=s]}}}
+
+  *= [objI=?ObjI]
+}
+
+class Object
+{
+    ObjectCanonical[]
+  | ObjectClitic   []
+  | ObjectRelative []
+}
+
+class VerbActiveTransitive
+declare ?E ?X ?Y
+{
+  BinaryRel     [] *= [evt=E,arg1=X,arg2=Y];
+  Subject       [] *= [subjI=X];
+  VerbActiveForm[] *= [vbI=E];
+  Object        [] *= [objI=Y]
+}
+
+value VerbActiveTransitive
+
+class VerbActiveTransitiveAnchored[?Rel]
+import VerbActiveTransitive[]
+{
+  <syn> { node (white,anchor) [cat=v,pred=?Rel] } *= [rel2=manger]
+}
+
+class VerbActiveTransitiveManger
+import VerbActiveTransitiveAnchored[manger]
+
+value VerbActiveTransitiveManger

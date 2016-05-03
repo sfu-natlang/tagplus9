@@ -1,0 +1,10 @@
+python makepage.py index.txt > ../index.html
+python makepage.py cfp.txt > ../cfp.html
+python makepage.py people.txt > ../people.html
+python makepage.py dates.txt > ../dates.html
+python makepage.py submit.txt > ../submit.html
+python makepage.py speakers.txt > ../speakers.html
+python makepage.py registration.txt > ../registration.html
+python makepage.py program.txt > ../program.html
+python makepage.py tutorial.txt > ../tutorial.html
+python makepage.py local.txt > ../local.html

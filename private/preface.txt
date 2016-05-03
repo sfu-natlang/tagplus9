@@ -1,0 +1,44 @@
+PREFACE
+
+It is with great pleasure that we present the current volume of papers
+accepted for presentation at the Ninth International Workshop on Tree
+Adjoining Grammar and Related Formalisms (TAG+9). We would like to
+acknowledge the authors who submitted to TAG+9 and the members of the
+program commitee who reviewed the submissions; this meeting would not
+be possible without their hard work. We would like to thank
+our invited speakers, Uwe M\"{o}nnich and Stuart Shieber, for their
+participation and offering support to this meeting.
+
+A valuable addition to the TAG+9 meeting is the tutorial program on
+various aspects of TAG, which was organized by Laura Kallmeyer. The
+tutorial features Eric de la Clergerie, Denys Duchier, Robert Frank
+and Maribel Romero. We would like to acknowledge their effort in
+fostering new interest in TAG and more generally in formal research
+into natural language.
+
+Funding for TAG+9 was provided by the German Research Foundation
+(DFG). Laura Kallmeyer was not only responsible for securing this
+funding, but also was in charge of hosting TAG+9 at the University of
+T\"{u}bingen. Together with Timm Lichte and Wolfgang Maier, Laura
+Kallmeyer handled the local organisation of the meeting and the
+preparation of the proceedings. Their contributions to TAG+9 have been
+invaluable.
+
+As at previous TAG+ workshops, the topics addressed by the
+presentations belong to diverse areas of research: mathematics of
+grammar formalisms and parsing, the syntax and semantics of natural
+languages, compact grammar representations and grammar engineering,
+and the relation between TAG and other grammar formalisms. By bringing
+together these different topics under the common theme of Tree
+Adjoining Grammars, the workshop promises to be a venue for
+interesting discussion of the latest research in this area.
+
+TAG+9 received submissions from all over the world. We were able to
+accept 22 out of the 29 abstract submissions to the workshop.  This
+volume contains the 22 research papers that will be presented at
+TAG+9. They are divided into two parts; the first part covering the 11
+papers that are to be deliverd in oral presentations and the second
+part covering the 11 papers that are to be presented as posters.
+
+Claire Gardent and Anoop Sarkar
+Program co-Chairs for TAG+9

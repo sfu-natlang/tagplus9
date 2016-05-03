@@ -1,0 +1,166 @@
+
+<h1>CALL FOR PAPERS</h1>
+<hr>
+
+<h2>The Ninth International Workshop on Tree Adjoining Grammar and Related Formalisms (TAG+9)</h2>
+
+<p>
+7-8 June 2008<br>
+Tuebingen, Germany<br>
+</p>
+
+<p>
+<code>http://tagplus9.cs.sfu.ca/</code>
+</p>
+
+<h2>Call For Papers (<a href="CFP.txt">text version</a>)</h2>
+
+<p>An important subfield of computational linguistics and natural
+language processing is research on the formal machinery for describing
+language. This covers a wide range of interdisciplinary work in the
+cognitive science of language, including the mathematical and
+algorithmic properties of this machinery, the grammatical description
+of natural language, and the mechanisms of parsing and human language
+use. This research is also applied to empirical areas leading to
+novel algorithms and models for machine learning.</p>
+
+<p>Tree Adjoining Grammar (TAG) is a prominent formalism in the study
+of natural language because of its attractive formal properties and
+its extended domain of locality. TAG has been studied extensively
+in the last three decades with respect to mathematical properties
+and computational applications, as well as its role in constructing
+grammatical theories, new models of language processing and
+applications.</p>
+
+<p>This workshop, the latest in a series that has been running
+successfully since 1990, aims at bringing together researchers
+interested in various aspects of the TAG formalism including relations
+to other grammar formalisms -- this is the reason for the "+" in
+the workshop's name. In the past, interaction between such formalisms
+has been productive, leading for example to the shared development
+of broad-coverage grammars, transfer of parsing and machine learning
+algorithms from one formalism to another and to new insights into
+properties of different formalisms. Such related formalisms would
+include minimalist syntax, categorial grammar, dependency grammars,
+HPSG, LFG, and others which share with TAG general properties such
+as lexicalization of syntactic structure, a simple notion of local
+grammatical dependency, and a formal system strictly more powerful
+than context-free but not fully context-sensitive.</p>
+
+<h3>Invited speakers:</h3>
+
+<ul>
+<li>Uwe Moennich, University of Tuebingen</li>
+<li>Stuart Shieber, Harvard University</li>
+</ul>
+
+<h3>Topics</h3>
+
+<p>We invite submissions on all aspects of TAG and related systems including
+the following topics:
+
+<ul>
+<li>syntactic and semantic theory;</li>
+<li>mathematical properties;</li>
+<li>computational and algorithmic studies of parsing, interpretation and generation;</li>
+<li>machine learning models for TAG;</li>
+<li>corpus-based research and grammar development using TAG;</li>
+<li>psycholinguistic modeling; and</li>
+<li>applications to natural language processing or biological sequence modeling.</li>
+</ul>
+</p>
+
+<p>Anonymous abstracts may be submitted for two sorts of presentations
+at the workshop: spoken presentations and poster presentations.
+Poster presentations are particularly appropriate for brief
+descriptions of specialized implementations, resources under
+development and work in progress. Regardless of the type of submission,
+abstracts may not exceed two pages in length (not including data,
+figures and references).  Both one-column or two-column abstracts
+are permissible. However do not use a font that is smaller than
+11pt. If you are using LaTeX for document preparation, then any
+recent ACL style file can be used. The final camera ready will be
+in two-column format conforming to the most recent ACL style file.
+</p>
+
+<h3>Contact Information</h3>
+
+<p>The workshop website is at <code>http://tagplus9.cs.sfu.ca/</code></p>
+
+<p>The electronic submission website is at
+<code>http://www.easychair.org/conferences/?conf=tag9</code></p>
+
+<p>Email contact: <code>tagplus@sfb441.uni-tuebingen.de</code></p>
+
+<h3>Important dates:</h3>
+
+<ul>
+<li>Deadline for submission of abstracts: March 6, 2008. (deadline extended)</li>
+<li>Notification to authors of decision: April 10, 2008.</li>
+<li>Deadline for camera-ready submission: April 28, 2008.</li>
+<li>Workshop dates: June 7 to 8, 2008.</li>
+</ul>
+
+<p>Proceedings including full eight-page papers for accepted abstracts
+(including both oral presentations and poster presentations) will
+be available on-line and at the workshop. In addition, we will
+explore possibilities for subsequent publication of workshop articles,
+for example through a special issue of a journal.</p>
+
+<h2>Organization:</h2>
+
+<h3>Local Arrangements Chair</h3>
+
+<ul>
+<li>Laura Kallmeyer, University of Tuebingen</li>
+</ul>
+
+<h3>Program Committee</h3>
+
+<ul>
+<li>Claire Gardent, CNRS/LORIA Nancy, (France). Program Co-Chair</li>
+<li>Anoop Sarkar, Simon Fraser University, (Canada). Program Co-Chair</li>
+<li>Srinivas Bangalore, AT&T Research (USA)</li>
+<li>Tilman Becker, DKI Saarbruecken (Germany)</li>
+<li>Pierre Boullier, INRIA Rocquencourt, Paris (France)</li>
+<li>John Chen, Columbia University (USA)</li>
+<li>Joan Chen-Main, University of Pennsylvania (USA)</li>
+<li>David Chiang, USC Information Sciences Institute (USA)</li>
+<li>Eric de la Clergerie, INRIA (France)</li>
+<li>Robert Frank, Johns Hopkins University (USA)</li>
+<li>Chung-Hye Han, Simon Fraser University (Canada)</li>
+<li>Karin Harbusch, University of Koblenz (Germany)</li>
+<li>Julia Hockenmaier, University of Illinois at Urbana-Champaign (USA)</li>
+<li>Aravind Joshi, University of Pennsylvania (USA)</li>
+<li>Laura Kallmeyer, University of Tuebingen (Germany)</li>
+<li>Marco Kuhlmann, University of the Saarland (Germany)</li>
+<li>Alessandro Mazzei, University of Torino (Italy)</li>
+<li>David McDonald, BBN Technologies (USA)</li>
+<li>Martha Palmer, University of Colorado (USA)</li>
+<li>Owen Rambow, Columbia University (USA)</li>
+<li>Frank Richter, University of Tuebingen (Germany)</li>
+<li>James Rogers, Earlham College (USA)</li>
+<li>Maribel Romero, University of Konstanz (Germany)</li>
+<li>Tatjana Scheffler, University of Pennsylvania (USA)</li>
+<li>Sylvain Schmitz, INRIA Nancy Grand Est (France)</li>
+<li>Vijay K. Shanker, University of Delaware (USA)</li>
+<li>Mark Steedman, University of Edinburgh (UK)</li>
+<li>Matthew Stone, Rutgers University (USA)</li>
+<li>Naoki Yoshinaga, Japan Society for the Promotion of Science (Japan)</li>
+<li>Bonnie Webber, University of Edinburgh (UK)</li>
+</ul>
+
+<p>Previous TAG+ meetings have been held at:
+
+<ul>
+<li>Dagstuhl (1990)</li>
+<li>Philadelphia (1992)</li>
+<li>Paris (1994)</li>
+<li>Philadelphia (1998)</li>
+<li>Paris (2000)</li>
+<li>Venice (2002)</li>
+<li>Vancouver (2004)</li>
+<li>Sydney (2006)</li>
+</ul>
+</p>
+

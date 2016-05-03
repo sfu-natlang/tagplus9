@@ -1,0 +1,74 @@
+
+<h1>Local Arrangements</h1>
+<hr>
+
+<h2>Workshop Venue</h2>
+
+<p>
+The workshop venue is at the University of T&uuml;bingen. The address is <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=Wilhelmstrasse+19,+72072+T%C3%BCbingen&sll=37.0625,-95.677068&sspn=57.030354,71.806641&ie=UTF8&z=16">Wilhelmstrasse 19</a>, room 0.02. 
+</p>
+
+<p>
+How to get there: Coming from the train station or from one of the hotels Domizil or Krone, take the Neckar bridge and then continue in the same direction following M&uuml;hlstrasse which (still in the same direction) becomes Wilhelmstrasse after 50 meters. Continue on Wilhelmstrasse, Number 19 is on the left after approximately 600 meters. 
+</p>
+
+<p>
+Walking from the Neckar bridge to the workshop venue takes approximately 10 minutes. Alternatively, you can take a bus on the bridge (numbers 1, 2, 6 or 7) and get off at the stop "Lothar-Meyer-Bau" (on Wilhelmstrasse). Then you have to walk back approximately 50 meters and cross the street.
+</p>
+
+<h2>Workshop Dinner</h2>
+
+<p><a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=W%C3%B6hrdstra%C3%9Fe+25,+72072+T%C3%BCbingen&sll=48.525845,9.061315&sspn=0.011809,0.017531&ie=UTF8&ll=48.523426,9.061317&spn=0.01181,0.017531&z=16&iwloc=addr">Restaurant Casino am Neckar, W&ouml;hrdstrasse 25</a> (next to Hotel Domizil).</p>
+
+<p>How to get there: After the Neckar bridge (this time in the direction towards Hotels Domizil and Krone and the train station), W&ouml;hrdstrasse is the first street to the left.</p>
+
+<h2>Guided City Tour</h2>
+
+<p>On Friday at 7pm a guided city tour has been organized for TAG+9 participants and their guests. T&uuml;bingen is an old university city with a very picturesque old city center. The tour starts at the fountain on the market place and lasts approximately 1 hour.</p>
+
+<p><a href="http://maps.google.com/maps/ms?msa=0&msid=104629796165953195812.00043aa631ea2fad68240&ie=UTF8&ll=48.520762,9.054054&spn=0.003326,0.008261&z=17&iwloc=00043af6a1f44c0b582f4">Market place in the T&uuml;bingen city center</a></p>
+
+<h2>Hotels</h2>
+
+<p>
+We have reserved some rooms with discount rates from June 5 to June
+9 at two hotels, both near to each other and within 10-15 min walking
+distance from the workshop venue. At both hotels, the reservations
+are filed under the keyword "TAG+", workshop attendees can book
+directly at the hotels under this keyword. 
+</p>
+<p>
+Hotel Krone will hold the reservations until April 26 while Hotel Domizil
+will hold them until May 5. After these dates, you still get the reduced
+rate (if booking under keyword "TAG+9") but the rooms might be given away.
+</p>
+
+<ul>
+<li>At "Hotel Domizil": 23 single rooms at Euro 86,00/room.
+<ul>
+<li><a href="http://www.hotel-domizil.de/">Hotel website</a> </li>
+<li><a href="http://maps.google.de/maps?f=d&hl=de&geocode=4149664216605245792,48.518105,9.059621%3B4149664216605245792,48.518105,9.059621&saddr=W%C3%B6hrdstr.+5-9,+72072+T%C3%BCbingen&daddr=Wilhelmstr.+19,+72072+T%C3%BCbingen&mra=pe&mrcr=0&sll=48.51812,9.05963&sspn=0.00474,0.010471&ie=UTF8&ll=48.521408,9.059966&spn=0.00948,0.020943&z=16">Route from Hotel to workshop venue</a> </li>
+</ul>
+</li>
+
+<li>At "Hotel Krone": 20 single rooms at Euro 88,00/room and 5 double rooms at Euro 129,00/room
+<ul>
+<li><a href="http://www.krone-tuebingen.de/">Hotel website</a> </li>
+<li><a href="http://maps.google.de/maps?f=d&hl=de&geocode=&saddr=Uhlandstra%C3%9Fe+1,+72072+T%C3%BCbingen&daddr=Wilhelmstr.+19,+72072+T%C3%BCbingen&sll=48.522085,9.059435&sspn=0.009479,0.020943&ie=UTF8&ll=48.520527,9.058914&spn=0.01896,0.041885&z=15">Route from Hotel to workshop venue</a> </li>
+</ul>
+</li>
+</ul>
+</p>
+
+<p>Here are some more hotels in the vicinity of the workshop venue:
+<ul>
+<li><a href="http://www.hotel-hospiz.de/">Hotel Hospiz</a> </li>
+<li><a href="http://www.hotelamschloss.de/">Hotel am Schloss</a> </li>
+<li><a href="http://www.hotel-am-bad.de">Hotel am Bad</a> </li>
+<li><a href="http://www.hotel-katharina-garni.de/">Hotel Katharina</a> </li>
+<li><a href="http://www.tuebingen.de/en/1566_4921_31343335.html">Pension Binder</a> (doesn't have its own webpage) </li>
+</ul>
+</p>
+
+
+

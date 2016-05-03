@@ -1,0 +1,64 @@
+
+Bangalore 3 : 11,21,26
+Becker 3 : 13,22,30
+Boullier 3 : 7,12,17
+Chen 3 : 3,11,25
+Chen-Main 3 : 9,10,13
+Chiang 4 : 8,14,15,30
+Clergerie 3 : 14,15,17
+Frank 4 : 2,6,16,27
+Han 3 : 24,27,28
+Harbusch 2 : 18,21
+Hockenmaier 3 : 3,10,23
+Joshi 4 : 2,9,20,26
+Kallmeyer 3 : 7,24,29
+Kuhlmann 3 : 4,12,22
+Mazzei 3 : 21,25,28
+McDonald 3 : 2,6,19
+Palmer 3 : 18,25,28
+Rambow 4 : 10,13,27,30
+Richter 3 : 5,20,22
+Rogers 3 : 4,14,26
+Romero 4 : 5,8,24,29
+Scheffler 3 : 8,16,18
+Schmitz 3 : 4,15,23
+Shanker 3 : 3,7,12
+Steedman 4 : 6,16,20,29
+Stone 3 : 5,9,19
+Webber 1 : 19
+Yoshinaga 3 : 11,17,23
+
+** means conflict cases
+
+* means Anoop has conflict with reviewer 
+
+#2: McDonald, Frank, Joshi
+#3: Chen, Shanker, Hockenmaier
+#4: Kuhlmann, Schmitz, Rogers
+#5: ** Stone, Richter, Romero
+#6: Frank, McDonald, Steedman
+#7: Shanker, Kallmeyer, Boullier
+#8: ** Chiang, Scheffler, Romero
+#9: Joshi, Stone, Chen-Main
+#10: Rambow, Chen-Main, Hockenmaier
+#11: Bangalore, Chen, Yoshinaga
+#12: Boullier, Kuhlmann, Shanker
+#13: ** Becker, Chen-Main, Rambow
+#14: Chiang, Rogers, Clergerie
+#15: Chiang, Schmitz, Clergerie
+#16: Frank, Scheffler, Steedman
+#17: Boullier, Clergerie, Yoshinaga
+#18: ** Scheffler, Palmer, Harbusch
+#19: Webber, McDonald, Stone
+#20: Joshi, Steedman, Richter
+#21: Bangalore, Mazzei, Harbusch
+#22: Kuhlmann, Becker, Richter
+#23: Hockenmaier, Schmitz, Yoshinaga
+#24: *Han, Romero, Kallmeyer
+#25: Chen, Palmer, Mazzei
+#26: Joshi, Rogers, Bangalore
+#27: *Han, Frank, Rambow
+#28: *Han, Mazzei, Palmer
+#29: Kallmeyer, Steedman, Romero
+#30: Becker, Rambow, Chiang
+

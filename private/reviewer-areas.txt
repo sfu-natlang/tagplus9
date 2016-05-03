@@ -1,0 +1,28 @@
+Srinivas Bangalore: grammar development, parsing, statistical
+Tilman Becker: grammar development, formal grammar, generation
+Pierre Boullier: formal grammar, parsing
+John Chen: parsing, statistical, formal grammar
+Joan Chen-Main: grammar development, syntax, semantics
+David Chiang: formal grammar, parsing, statistical, synchronous TAG
+Eric de la Clergerie: parsing, formal grammar
+Robert Frank: syntax, semantics, grammar development
+Chung-Hye Han: syntax, semantics, grammar development
+Karin Harbusch: parsing, grammar development, generation
+Julia Hockenmaier: parsing, formal grammar, grammar development
+Aravind Joshi: parsing, formal grammar, grammar development
+Laura Kallmeyer: semantics, grammar development, formal grammar
+Marco Kuhlmann: formal grammar
+Alessandro Mazzei: grammar development
+David McDonald: semantics
+Martha Palmer: grammar development, lexical semantics
+Owen Rambow: syntax, semantics, parsing, generation
+Frank Richter: syntax, grammar development, semantics
+James Rogers: formal grammar
+Maribel Romero: semantics, syntax
+Tatjana Scheffler: semantics, syntax, grammar development
+Sylvain Schmitz: formal grammar, parsing
+Vijay K. Shanker: formal grammar, parsing, statistical
+Mark Steedman: formal grammar, syntax, semantics, parsing
+Matthew Stone: generation, formal grammar, semantics
+Naoki Yoshinaga: parsing, formal grammar
+Bonnie Webber: discourse, generation

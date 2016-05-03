@@ -1,0 +1,42 @@
+
+On behalf of the TAG+9 Program Committee, we are delighted to inform
+you that the submission listed below has been accepted for oral/poster
+presentation in the TAG+9 workshop.
+
+The reviews are attached below. We ask you to carefully consider the
+reviewers' comments when preparing the final version of your
+paper.
+
+THE FINAL CAMERA-READY PAPER IS DUE ON APR 28, 2008. The paper must
+use the formatting directions provided on the workshop web page, and
+must not exceed 8 pages. The guidelines are available at:
+
+http://tagplus9.cs.sfu.ca/submit.html#guidelines
+
+After preparing your paper for publication in the proceedings,
+you can e-mail the PDF file to tagplus@sfb441.uni-tuebingen.de
+or upload the file using EasyChair (the instructions for
+this will be sent to you by e-mail).
+
+Please confirm to us that at least one of the authors will be present
+at the workshop to present this work. Online registration is now
+available.
+
+Please visit the workshop home page at http://tagplus9.cs.sfu.ca/
+for information about:
+
+  * how to prepare your final camera-ready paper
+  * how to prepare your talk
+  * registration for the workshop
+  * hotel reservations
+
+Congratulations on your fine work. Please forward this message to
+your co-authors, if any. If you have any additional questions,
+please feel free to get in touch.
+
+Looking forward to meeting you in Tuebingen in June!
+
+Best Regards,
+Claire Gardent and Anoop Sarkar
+TAG+9 2008
+

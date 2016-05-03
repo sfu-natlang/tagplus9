@@ -1,0 +1,55 @@
+
+  <h1>The Ninth International Workshop on Tree Adjoining Grammars and Related Formalisms</h1>
+  <h1>T&uuml;bingen, Germany. June 7-8, 2008</h1>
+  <hr>
+
+  <div class="mainphoto"><img width="450" src="neckarfront.jpg" alt="Photo of the Neckarfront in Tuebingen by wolfgang.maier"></div>
+
+  <h2>Updates</h2>
+  <ul>
+  <li>[2 Nov.07] The website is up.</li>
+  <li>[8 Dec.08] <a href="speakers.html">Invited speakers</a> now confirmed.</li>
+  <li>[9 Jan.08] <a href="cfp.html">Call for Papers</a> distributed.</li>
+  <li>[27 Feb.08] <a href="cfp.html">Deadline extended</a> from March 3 to March 6, 2008.</li>
+  <li>[17 Mar.08] <a href="local.html">Hotel information</a> added.</li>
+  <li>[31 Mar.08] <a href="tutorial.html">Tutorial Program</a> added.</li>
+  <li>[11 Apr.08] <a href="http://www.sfb441.uni-tuebingen.de/emmy-noether-kallmeyer/tagplus/registration.html">Registration page</a> added.</li>
+  <li>[11 Apr.08] <a href="submit.html#guidelines">Guidelines for Formatting Papers for the Proceedings</a> added.</li>
+  <li>[11 Apr.08] <a href="program.html">List of accepted papers</a> now available.</li>
+  <li>[8 May.08] <a href="local.html">Directions to workshop venue and workshop dinner</a> now available.</li>
+  <li>[20 May.08] <a href="program.html">Poster preparation guidelines</a> now available.</li>
+  <li>[22 May.08] <a href="program.html">PDF of full papers</a> to be presented at TAG+9 is now available.</li>
+  <li>[31 May.08] <a href="local.html">City tour of T&uuml;bingen</a> for TAG+9 participants and their guests added to local arrangements pages.</li>
+  <li>[2 Jun.08] TAG+9 in 4 days! See you all in T&uuml;bingen.</li>
+  <li>[11 Jun.08] TAG+9 is over! The slides from the invited talks have been uploaded to the <a href="speakers.html">Speakers</a> page.</li>
+  </ul>
+
+  <h2>Welcome</h2>
+  <p> Welcome to the home page for TAG+9 2008, the 9th International Workshop on Tree Adjoining Grammars and Related Formalisms. TAG+9 2008 will be held on June 7-8 at the University of T&uuml;bingen, Germany.</p>
+
+<p>Please refer to the <a href="submit.html#guidelines">Guidelines for Formatting Papers for the Proceedings</a> and submit your paper for the TAG+9 proceedings by April 28, 2008. You can submit your PDF file by email to <a href="mailto:tagplus@sfb441.uni-tuebingen.de">tagplus@sfb441.uni-tuebingen.de</a> or upload the PDF file to EasyChair (instructions will be emailed to you).</p>
+
+  <h2>Important Dates</h2>
+  <ul>
+  <li>Deadline for submission: Mar 6, 2008 (deadline extended)</li>
+  <!-- <li>Reviews due: Apr 6, 2008</li> -->
+  <li>Notification to authors of decision: Apr 10, 2008</li>
+  <li>Camera ready: Apr 28, 2008</li>
+  <li>Tutorial date: Jun 6, 2008</li>
+  <li>Workshop date: Jun 7-8, 2008</li>
+  </ul>
+
+  <h2>Contact</h2>
+
+  <p>Contact e-mail: <a href="mailto:tagplus@sfb441.uni-tuebingen.de">tagplus@sfb441.uni-tuebingen.de</a>
+  </p>
+
+    <hr>
+    <table>
+      <tr>
+        <td align="center"><a href="http://www.uni-tuebingen.de/"><img height=50 alt="University of T&uuml;bingen logo" src="tubingenlogo.gif"></a></td>
+        <td align="center"><a href="http://www.sfu.ca/"><img height=40 alt="Simon Fraser University logo" src="sfulogo.png"></a></td>
+        <td align="center"><img height=50 alt="DFG logo" src="dfglogo.gif"></td>
+      </tr>
+    </table>
+

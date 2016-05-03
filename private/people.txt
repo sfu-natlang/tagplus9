@@ -1,0 +1,59 @@
+
+<h1>People</h1>
+<hr>
+<p>Contact e-mail: <a href="mailto:tagplus@sfb441.uni-tuebingen.de">tagplus@sfb441.uni-tuebingen.de</a>
+</p>
+<table>
+<tr>
+<td align="left" valign="top">
+<h2>Program Committee</h2>
+<ul>
+<li><a href="http://www.loria.fr/~gardent/">Claire Gardent</a>, 
+    <a href="http://www.loria.fr/">CNRS/LORIA Nancy</a>, (France). <br>Program Co-Chair</li>
+<li><a href="http://www.cs.sfu.ca/~anoop/">Anoop Sarkar</a>, 
+    <a href="http://www.cs.sfu.ca/">Simon Fraser University</a>, (Canada). <br>Program Co-Chair</li>
+<li>Srinivas Bangalore, AT&T Research (USA)</li>
+<li>Tilman Becker, DKI Saarbruecken (Germany)</li>
+<li>Pierre Boullier, INRIA Rocquencourt, Paris (France)</li>
+<li>John Chen, Columbia University (USA)</li>
+<li>Joan Chen-Main, University of Pennsylvania (USA)</li>
+<li>David Chiang, USC Information Sciences Institute (USA)</li>
+<li>Eric de la Clergerie, INRIA (France)</li>
+<li>Robert Frank, Johns Hopkins University (USA)</li>
+<li>Chung-Hye Han, Simon Fraser University (Canada)</li>
+<li>Karin Harbusch, University of Koblenz (Germany)</li>
+<li>Julia Hockenmaier, University of Illinois at Urbana-Champaign (USA)</li>
+<li>Aravind Joshi, University of Pennsylvania (USA)</li>
+<li>Laura Kallmeyer, University of T&uuml;bingen (Germany)</li>
+<li>Marco Kuhlmann, University of the Saarland (Germany)</li>
+<li>Alessandro Mazzei, University of Torino (Italy)</li>
+<li>David McDonald, BBN Technologies (USA)</li>
+<li>Martha Palmer, University of Colorado (USA)</li>
+<li>Owen Rambow, Columbia University (USA)</li>
+<li>Frank Richter, University of T&uuml;bingen (Germany)</li>
+<li>James Rogers, Earlham College (USA)</li>
+<li>Maribel Romero, University of Konstanz (Germany)</li>
+<li>Tatjana Scheffler, University of Pennsylvania (USA)</li>
+<li>Sylvain Schmitz, INRIA Nancy Grand Est (France)</li>
+<li>Vijay K. Shanker, University of Delaware (USA)</li>
+<li>Mark Steedman, University of Edinburgh (UK)</li>
+<li>Matthew Stone, Rutgers University (USA)</li>
+<li>Naoki Yoshinaga, University of Tokyo (Japan)</li>
+<li>Bonnie Webber, University of Edinburgh (UK)</li>
+</ul>
+</td>
+<td align="left" valign="top">
+<h2>Local Arrangements</h2>
+<ul>
+<li><a href="http://www.sfb441.uni-tuebingen.de/~lk/">Laura Kallmeyer</a>, 
+    <a href="http://www.uni-tuebingen.de/">University of T&uuml;bingen</a> (Germany)</li>
+<li><a href="http://www.sfb441.uni-tuebingen.de/~wmaier/">Wolfgang Maier</a>, 
+    <a href="http://www.uni-tuebingen.de/">University of T&uuml;bingen</a> (Germany)</li>
+<li><a href="http://www.sfb441.uni-tuebingen.de/~lichte/">Timm Lichte</a>, 
+    <a href="http://www.uni-tuebingen.de/">University of T&uuml;bingen</a> (Germany)</li>
+</ul>
+</td>
+</tr>
+</table>
+<hr>
+

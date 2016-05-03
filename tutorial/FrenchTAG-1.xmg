@@ -1,0 +1,76 @@
+type CAT = {n,v,vn,s,cl}
+feature cat : CAT
+
+class VerbActiveForm
+{
+  <syn> {
+    node[cat=s] {
+      node[cat=vn] {
+        node[cat=v]}}}
+}
+
+class SubjectCanonical
+{
+  <syn> {
+    node[cat=s] {
+      node[cat=n]
+      node[cat=vn]}}
+}
+
+class SubjectRelative
+{
+  <syn> {
+    node[cat=n] {
+      node[cat=n]
+      node[cat=s] {
+        node[cat=n]
+	node[cat=vn]}}}
+}
+
+class Subject
+{
+    SubjectCanonical[]
+  | SubjectRelative []
+}
+
+class ObjectCanonical
+{
+  <syn> {
+    node[cat=s] {
+      node[cat=vn]
+      node[cat=n]}}
+}
+
+class ObjectClitic
+{
+  <syn> {
+    node[cat=vn] {
+      node[cat=cl]
+      node[cat=v]}}
+}
+
+class ObjectRelative
+{
+  <syn> {
+    node[cat=n] {
+      node[cat=n]
+      node[cat=s] {
+        node[cat=n]
+	node[cat=s]}}}
+}
+
+class Object
+{
+    ObjectCanonical[]
+  | ObjectClitic   []
+  | ObjectRelative []
+}
+
+class VerbActiveTransitive
+{
+  Subject[];
+  VerbActiveForm[];
+  Object[]
+}
+
+value VerbActiveTransitive
